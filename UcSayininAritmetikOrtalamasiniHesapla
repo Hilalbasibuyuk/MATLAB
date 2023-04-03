@@ -1,0 +1,8 @@
+sayi1=input('lütfen 1. sayıyı giriniz: ');
+sayi2=input('lütfen 2. sayıyı giriniz; ');
+sayi3=input('lütfen 3. sayıyı giriniz: ');
+aritmetikOrtalama=((sayi1+sayi2+sayi3)/3);,
+disp(['Girilen üç sayının aritmetik ortalamsı: 'num2str(aritmetikOrtalama)]);
+
+
+
